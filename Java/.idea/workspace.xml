@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5847e4e9-8c18-4cbd-9cfe-a372c96162e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/05-first-java-program/05-first-java-program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/05-first-java-program/first-idea-program/first-idea-program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/06-conditions-loops/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/06-conditions-loops/switch/switch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/07-methods/07-methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/07-methods/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/08-arrays/08-arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/08-arrays/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/09-linear search/09-linear search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/09-linear search/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/10-binary search/10-binary search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/10-binary search/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/11-sorting/11-sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/11-sorting/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/12-strings/12-strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/12-strings/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/13-patterns/13-patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/13-patterns/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/14-recursion/14-recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/14-recursion/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/15-complexity/15-complexity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/15-complexity/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/16-math/16-math.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/16-math/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/17-oop/17-oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/17-oop/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/18-linkedlist/18-linkedlist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/18-linkedlist/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/19-stacks-n-queues/19-stacks-n-queues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/19-stacks-n-queues/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/19-stacks-n-queues/code/code1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/20-trees/20-trees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/21-StringBuffer/21-StringBuffer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/22-large numbers/22-large numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/23-file handling/23-file handling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/24-heaps/24-heaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/25-hashmaps/25-hashmaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/26-advance-sorting/26-advance-sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/27-huffman-coding/27-huffman-coding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA-Bootcamp-Java-main/DSA-Bootcamp-Java-main/lectures/28-sqrt-decomposition/28-sqrt-decomposition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/Main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/AreaCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/AreaEquilateral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/AreaIsosceles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/AreaParallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/AreaRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/AreaRhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/AreaTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/CurvedSurfaceAreaCylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/PerimeterCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/PerimeterEquilateral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/PerimeterParallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/PerimeterRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/PerimeterRhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/PerimeterSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/TotalSurfaceAreaCube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/VolumeCone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/VolumeCylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/VolumePrism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/VolumePyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/VolumeSphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/ConditionalsLoops/subtractProductAndSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/First/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/First/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/First/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/First/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/First/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/First/RupeesToUSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/First/SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/First/greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/First/operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/harsh/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/harsh/Inputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/harsh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/harsh/Primitive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/harsh/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/harsh/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/src/com/harsh/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Main" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2bFWYp0ysT3xmae1o1HyFnD4yMM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/harsh/OneDrive/Desktop/Project/Java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5847e4e9-8c18-4cbd-9cfe-a372c96162e6" name="Changes" comment="" />
+      <created>1705811357862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705811357862</updated>
+    </task>
+    <servers />
+  </component>
+</project>
